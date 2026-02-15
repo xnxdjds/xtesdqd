@@ -1,2 +1,2 @@
-pyaes
-urllib3
+pyaes==1.6.1
+urllib3==2.2.3
